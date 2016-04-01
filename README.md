@@ -8,6 +8,6 @@ TeamCity plugin enabling some nyan-nyan on your server
 - enable `teamcity.ui.nyanify` [internal
   property](https://confluence.jetbrains.com/display/TCD9/Configuring+TeamCity+Server+Startup+Properties#ConfiguringTeamCityServerStartupProperties-TeamCityinternalpropertiesinternal.properties)
 
-![successful build](https://github.com/cy6erskunk/teamcityNyan/raw/master/successful.png)
+<img src="https://github.com/cy6erskunk/teamcityNyan/raw/master/successful.png" height="35">
 
-![failing build](https://github.com/cy6erskunk/teamcityNyan/raw/master/failing.png)
+<img src="https://github.com/cy6erskunk/teamcityNyan/raw/master/failing.png" height="35">
